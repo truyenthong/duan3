@@ -4,3 +4,7 @@ h1 {
 h3 {
   color: blue;
 }
+p {
+  color: black;
+  background: rgb(150, 102, 102);
+}
